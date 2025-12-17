@@ -1,0 +1,7 @@
+{
+  "name": "FuelWise - Calculadora de Coste de Viaje",
+  "description": "Herramienta profesional para estimar costes de combustible usando rutas reales y gestión de vehículos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
